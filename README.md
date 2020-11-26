@@ -4,14 +4,13 @@
 <img alt="Linkedin badge" src="https://img.shields.io/badge/-@ldantas&dash;s-0077B5?logo=Linkedin&amp;labelColor=0077B5&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ldantas-s/">
 </a>
 
-
 <a style="text-decoration: none;" href="https://twitter.com/ldantas_s" target="_blank">
 <img alt="Twitter URL" src="https://img.shields.io/badge/-@ldantas_s-1DA1F2?logo=twitter&amp;labelColor=1DA1F2&amp;logoColor=white&amp;link=https://twitter.com/ldantas_s"></a>
 
 <!-- <a style="text-decoration: none;" href="https://codepen.io/ldantas_s" target="_blank">
 <img alt="codepen URL" src="https://img.shields.io/badge/-@ldantas_s-000000?logo=codepen&amp;labelColor=000000&amp;logoColor=white&amp;link=https://twitter.com/ldantas_s">
 </a> -->
-
+<br>
 Eu sou um amante da natureza e um entusiasta no mundo do desenvolvimento, onde busco sempre aprender e solucionar problemas dos quais me sinto desafiado. Sempre dou o meu melhor para crescer, não só pessoalmente como também profissionalmente.
 
 
