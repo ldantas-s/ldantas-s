@@ -1,12 +1,16 @@
+# **Luciano Dantas**
 
-# Luciano Dantas aqui 😊
+<a style="text-decoration: none;" href="https://www.linkedin.com/in/ldantas-s/" target="_blank">
+<img alt="Linkedin badge" src="https://img.shields.io/badge/-@ldantas&dash;s-0077B5?logo=Linkedin&amp;labelColor=0077B5&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ldantas-s/">
+</a>
 
-<a href="https://www.linkedin.com/in/ldantas-s/" target="_blank">
-<img width="120" alt="Twitter URL" src="https://img.shields.io/twitter/url?color=0077B5&label=%40ldantas-s&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fldantas-s%2F">
-</a>
-<a href="https://twitter.com/ldantas_s" target="_blank">
-<img width="120" alt="Twitter URL" src="https://img.shields.io/twitter/url?color=1DA1F2&label=%40ldantas_s&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fldantas_s">
-</a>
+
+<a style="text-decoration: none;" href="https://twitter.com/ldantas_s" target="_blank">
+<img alt="Twitter URL" src="https://img.shields.io/badge/-@ldantas_s-1DA1F2?logo=twitter&amp;labelColor=1DA1F2&amp;logoColor=white&amp;link=https://twitter.com/ldantas_s"></a>
+
+<!-- <a style="text-decoration: none;" href="https://codepen.io/ldantas_s" target="_blank">
+<img alt="codepen URL" src="https://img.shields.io/badge/-@ldantas_s-000000?logo=codepen&amp;labelColor=000000&amp;logoColor=white&amp;link=https://twitter.com/ldantas_s">
+</a> -->
 
 <br>
 <br>
@@ -15,25 +19,44 @@ Eu sou um amante da natureza e um entusiasta no mundo do desenvolvimento, onde b
 
 <br>
 
-### Eu gosto de:
+### ✨ Habilidades:
+
+<img alt="html5 badge" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&amp;labelColor=E34F26&amp;logoColor=white">
+
+<img alt="css3 badge" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&amp;labelColor=1572B6&amp;logoColor=white">
+
+<img alt="javascript badge" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&amp;labelColor=F7DF1E&amp;logoColor=black">
+
+<img alt="reactjs badge" src="https://img.shields.io/badge/-Reactjs-61DAFB?logo=react&amp;labelColor=61DAFB&amp;logoColor=black">
+
+<img alt="tailwindcss badge" src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?logo=tailwind-css&amp;labelColor=38B2AC&amp;logoColor=white">
+
+<img alt="bootstrap badge" src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&amp;labelColor=563D7C&amp;logoColor=white">
+
+<img alt="git badge" src="https://img.shields.io/badge/-Git-F05032?logo=git&amp;labelColor=F05032&amp;logoColor=white">
+
+<br>
+<br>
+
+### 🌱 Aprendendo: 
+<img alt="typescript badge" src="https://img.shields.io/badge/-Typescript-007ACC?logo=Typescript&amp;labelColor=007ACC&amp;logoColor=white">
+
+<!-- <img alt="nodejs badge" src="https://img.shields.io/badge/-Nodejs-339933?logo=node.js&amp;labelColor=339933&amp;logoColor=white"> -->
+
+<img alt="expo badge" src="https://img.shields.io/badge/-Expo-000020?logo=expo&amp;labelColor=000020&amp;logoColor=white">
+
+<img alt="firebase badge" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&amp;labelColor=FFCA28&amp;logoColor=black">
+
+<br>
+<br>
+
+
+<!-- ### Eu gosto de:
 
 - 🏕️ Camping/Outdoor
 - 🚵‍♂️ MTB (Mountain Bike)
 - 📚 Ler
-- 🎮 Videogame 
-
-### Skills/Learning:
-
-- HTML5
-- CSS3
-- JS
-- Typescript
-- Reactjs
-- Expo
-- Tailwindcss
-- Nodejs
-- Git
-- Firebase
+- 🎮 Videogame  -->
 
 <!--
 
