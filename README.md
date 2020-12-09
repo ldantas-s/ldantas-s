@@ -21,8 +21,8 @@ Eu sou um amante da natureza e um entusiasta no mundo do desenvolvimento, onde b
 <img alt="css3 badge" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&amp;labelColor=1572B6&amp;logoColor=white">
 <img alt="javascript badge" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&amp;labelColor=F7DF1E&amp;logoColor=black">
 <img alt="reactjs badge" src="https://img.shields.io/badge/-Reactjs-61DAFB?logo=react&amp;labelColor=61DAFB&amp;logoColor=black">
-<img alt="tailwindcss badge" src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?logo=tailwind-css&amp;labelColor=38B2AC&amp;logoColor=white">
-<img alt="bootstrap badge" src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&amp;labelColor=563D7C&amp;logoColor=white">
+<img alt="styled-components badge" src="https://img.shields.io/badge/-Styled components-DB7093?logo=styled-components&amp;labelColor=DB7093&amp;logoColor=white">
+<img alt="Sass badge" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&amp;labelColor=CC6699&amp;logoColor=white">
 <img alt="git badge" src="https://img.shields.io/badge/-Git-F05032?logo=git&amp;labelColor=F05032&amp;logoColor=white">
 </p>
 
