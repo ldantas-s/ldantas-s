@@ -5,7 +5,12 @@
 </a>
 
 <a style="text-decoration: none;" href="https://twitter.com/ldantas_s" target="_blank">
-<img alt="Twitter URL" src="https://img.shields.io/badge/-@ldantas_s-1DA1F2?logo=twitter&amp;labelColor=1DA1F2&amp;logoColor=white&amp;link=https://twitter.com/ldantas_s"></a>
+<img alt="Twitter URL" src="https://img.shields.io/badge/-@ldantas_s-1DA1F2?logo=twitter&amp;labelColor=1DA1F2&amp;logoColor=white&amp;link=https://twitter.com/ldantas_s">
+</a>
+
+<a style="text-decoration: none;" href="https://www.hackerrank.com/ldantas_s" target="_blank">
+<img alt="HackerRank URL" src="https://img.shields.io/badge/-@ldantas_s-2EC866?logo=hackerrank&amp;labelColor=2EC866&amp;logoColor=white&amp;link=https://www.hackerrank.com/ldantas_s">
+</a>
 
 <!-- <a style="text-decoration: none;" href="https://codepen.io/ldantas_s" target="_blank">
 <img alt="codepen URL" src="https://img.shields.io/badge/-@ldantas_s-000000?logo=codepen&amp;labelColor=000000&amp;logoColor=white&amp;link=https://twitter.com/ldantas_s">
