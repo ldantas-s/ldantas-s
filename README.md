@@ -37,7 +37,7 @@ Eu sou um amante da natureza e um entusiasta no mundo do desenvolvimento, onde b
 <p style="display: inline;">
 <img alt="typescript badge" src="https://img.shields.io/badge/-Typescript-007ACC?logo=Typescript&amp;labelColor=007ACC&amp;logoColor=white">
 <!-- <img alt="expo badge" src="https://img.shields.io/badge/-Expo-000020?logo=expo&amp;labelColor=000020&amp;logoColor=white"> -->
-<img alt="firebase badge" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&amp;labelColor=FFCA28&amp;logoColor=black">
+<!-- <img alt="firebase badge" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&amp;labelColor=FFCA28&amp;logoColor=black"> -->
 <img alt="jest badge" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&amp;labelColor=C21325&amp;logoColor=white">
 </p>
 
